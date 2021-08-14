@@ -1,0 +1,21 @@
+.loadingWrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+}
+
+.loadingWrapper img{
+    height: 60px;
+    animation: rotate linear 3s infinite;
+    transition: all  linear;
+    margin-left: 5px;
+}
+
+@keyframes rotate{
+
+    0% { transform: rotateZ(0deg); }
+    100% { transform: rotateZ(360deg); }
+}
+

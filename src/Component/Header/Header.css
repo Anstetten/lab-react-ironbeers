@@ -1,0 +1,13 @@
+.headerWrapper{ 
+    height:70px;
+    background-color: #3dc4fc;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+}
+
+.headerWrapper img{
+    height:95%;
+}

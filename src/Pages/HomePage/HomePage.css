@@ -1,0 +1,23 @@
+.homeWrapper{
+    
+}
+
+.homeWrapper img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.homeLink{
+    height:33%;
+    text-decoration: none;
+    
+}
+
+.homeWrapper h2{
+    font-size: 1.3rem;
+    margin: 10px 0px;
+}
+
+.homeWrapper p{
+    margin-bottom: 10px;
+}

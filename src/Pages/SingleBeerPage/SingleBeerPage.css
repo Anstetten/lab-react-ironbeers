@@ -1,0 +1,56 @@
+.singleBeerWrapper img{
+    height:20rem;
+    margin: 20px 0px;
+    align-self: center;
+    
+}
+
+.singleBeerWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding:10px;
+}
+
+.singleBeerTitleDiv{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin:10px 0px;
+}
+
+.singleBeerMottoDiv{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin:10px 0px;
+}
+
+.singleBeerWrapper p{
+    margin:10px 0px;
+}
+
+#singleBeerTitle{
+    font-size: 2rem;
+}
+#singleBeerAtt{
+    font-size: 2rem;
+    color:rgb(187, 187, 187);
+
+}
+#singleBeerMotto{
+
+    font-size:1.2rem;
+    color:rgb(187, 187, 187);
+
+}
+#singleBeerDate{
+
+    font-size:1rem;
+    font-weight: bolder;
+
+}
+#singleBeerCreator{
+    color:rgb(187, 187, 187);
+
+}

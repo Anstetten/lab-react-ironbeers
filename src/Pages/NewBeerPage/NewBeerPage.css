@@ -1,0 +1,45 @@
+.newBeerWrapper{
+    height: 100vh;
+    position: relative;
+}
+
+form{
+
+    display: flex;
+    flex-direction: column;
+    padding:30px;
+    height: 90%;
+    bottom:0px
+}
+
+label{
+    font-weight: bolder;
+    border-bottom: 2px;
+    font-size: 0.8rem;
+}
+
+input{
+    border:1px solid rgb(216, 216, 216);
+    border-radius: 2px;
+    height: 2rem;
+    font-size: 1rem;
+}
+
+textarea{
+    height: 300px;
+    border:1px solid rgb(216, 216, 216);
+    border-radius: 2px;
+}
+
+
+button{
+    margin-top: 20px;
+    color: white;
+    background-color: #3dc4fc;
+    padding:5px;
+    width:80%;
+    border-radius: 20px ;
+    border:1px solid transparent;
+    align-self: center;
+}
+
